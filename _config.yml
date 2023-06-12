@@ -134,8 +134,8 @@ link-col: "#008aff"
 hover-col: "#4c85a2"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#1B5788"
-footer-hover-col: "#1B5788"
+footer-link-col: "#05172D"
+footer-hover-col: "#4c85a2"
 
 # default colors
 # navbar-col: "#EAEAEA"
